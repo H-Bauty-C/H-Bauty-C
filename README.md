@@ -1,6 +1,6 @@
 # **Hola!, Soy [Hugo Ceci👋](https://www.linkedin.com/in/hugo-ceci-21a71123a/)**
 
-![portada](https://i.pinimg.com/originals/5d/45/0c/5d450cd11bc125fe8bd2e0214110fb36.gif)
+![portada](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
 
 
 <b>Full-Stack Developer</b>
