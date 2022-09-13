@@ -1,4 +1,4 @@
-# **Hola!, Soy [Hugo Ceci👋](https://www.linkedin.com/in/hugo-ceci-21a71123a/)*
+# **Hola!, Soy [Hugo Ceci👋](https://www.linkedin.com/in/hugo-ceci-21a71123a/)**
 
 ![portada](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
 
