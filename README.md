@@ -10,22 +10,20 @@
   Actualmente estoy capacitado para manejar las siguientes tegnologias 
 - HTML y CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize.
 
-🙋‍♂️Me caracteriza la predispocicion a aprender nuevas tegnologias, trabajo en equipo, resposable y antento. 
-
-<b>Skill</b>
+🙋‍♂️Me caracteriza la predispocicion a aprender nuevas tegnologias, trabajo en equipo, resposable y antento.
 
 
 <H1>👇Si tienes alguna inquietud, Contactame👇</H1>
 
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985527/Repositorio/gmail-small_qtecee.png" height="20" width="20"></a> hugoceci2003@gmail.com
 
-<b>Redes </b>
+<H2>Redes </H2>
 
 
 <a href="https://www.linkedin.com/in/hugo-ceci-21a71123a/" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985505/Repositorio/linkedin-small_ulvnlb.png" height="50" width="50"></a>
 <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985506/Repositorio/discord-small_zxdumb.png" height="50" width="50"></a> H-Bauty-C#0947
 
-<b>Skill</b>
+<H2>Skill</H2>
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" padding-left:50px><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985507/Repositorio/node-small_tvf36p.png" height="50" width="50"></a>
