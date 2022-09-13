@@ -1,4 +1,6 @@
-### Hola Soy Hugo Ceci 👋
+# **Hola!, Soy [Hugo Ceci]👋(https://www.linkedin.com/in/hugo-ceci-21a71123a/)**
+
+![portada](https://codeagepk.com/wp-content/uploads/2020/12/home-gif.gif)
 
 
 <b>Full-Stack Developer</b>
